@@ -28,5 +28,5 @@ Dashboard para monitorar **custos de benefícios** e **adesão (VT)**, com visã
 Power BI (modelagem + DAX) • Power Query • Excel/SQL (quando aplicável)
 
 ## Preview
-![](images/preview-1.png)
-![](images/preview-2.png)
+![](images/print1.png)
+![](images/print2.png)
